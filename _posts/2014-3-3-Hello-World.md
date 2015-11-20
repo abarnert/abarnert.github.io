@@ -1,7 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: This is a test.
 ---
+
+Just following the instructions below.
+
+```python
+    # But here's some sample code. Does it highlight as Python?
+    def spam(eggs):
+        pass
+```
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
